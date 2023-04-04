@@ -47,6 +47,16 @@ main {
   background-color: var(--primary-color);
 }
 
+.form {
+  display: flex;
+}
+
+.git {
+  height: 2.2rem;
+  width: 2.2rem;
+  margin-right: 2rem;
+}
+
 .movie {
   width: 300px;
   margin: 1rem;
